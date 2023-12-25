@@ -16,10 +16,12 @@
 
 - **Core Functionality:**
     - Generate passwords based on user-specified criteria.
+    - Develop graphic use interface
     - Display generated passwords to the user.
     - Optionally, save generated passwords to a text file for later use.
 - **Potential Enhancements:**
     - Allow password saving in encrypted format for added security.
+    - Add strength measurnment index
     - Integrate with password managers for streamlined usage.
     - Implement password strength checks through external libraries or online services.
 
